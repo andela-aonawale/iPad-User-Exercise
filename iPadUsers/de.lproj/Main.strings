@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "56N-ht-2tu"; */
+"56N-ht-2tu.text" = "Email";
+
+/* Class = "UITableViewController"; title = "Users"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Benutzer";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "7wT-4a-JQf"; */
+"7wT-4a-JQf.text" = "Name";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "93e-Oy-EK6"; */
+"93e-Oy-EK6.text" = "Titel";
+
+/* Class = "UILabel"; text = "Company catch phrase"; ObjectID = "Mk8-4k-j9y"; */
+"Mk8-4k-j9y.text" = "Unternehmen Schlagwort";
+
+/* Class = "UINavigationController"; title = "Users"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Benutzer";
+
+/* Class = "UINavigationItem"; title = "Users"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Benutzer";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rCl-Zp-ymH"; */
+"rCl-Zp-ymH.text" = "Titel";
